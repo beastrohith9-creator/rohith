@@ -1,2 +1,2 @@
 #include<stdio.h>
-printf("hi nigga");
+printf("hi ");
